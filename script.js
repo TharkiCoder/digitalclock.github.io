@@ -6,5 +6,5 @@ setInterval(()=>{
   var ss=date.getSeconds();
   var dd=date.toLocaleDateString(undefined,options);
   document.getElementById('time').innerHTML=hh+':'+mm+':'+ss;
-  document.getElementById('date').innerHTML=dd+"<br>"+"\t\t~Tharki Coder";
+  document.getElementById('date').innerHTML=dd+"<br>"+"\t\t~Aman Singh";
 },1000);
